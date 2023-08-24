@@ -1,0 +1,51 @@
+
+
+
+/*Links*/
+.links ul {
+    background-color: grey;
+    border: 5px solid yellowgreen;
+    height: auto;
+    margin: 5px;
+}
+
+/*Index*/
+.index_links  {
+    background-color: purple;
+    border: 5px solid yellowgreen;
+    height: 100px;
+    margin: 5px;
+}
+
+
+
+/*Chicken and Rice*/
+
+
+.image {
+    background-color: purple;
+    border: 5px solid yellowgreen;
+    height: auto;
+    margin: 5px;
+}
+
+ .description {
+    background-color: grey;
+    border: 5px solid yellowgreen;
+    height: auto;
+    margin: 5px;
+}
+
+.ingredients {
+    background-color: grey;
+    border: 5px solid yellowgreen;
+    height: auto;
+    margin: 5px;
+}
+
+ .steps {
+    background-color: grey;
+    border: 5px solid yellowgreen;
+    height: auto;
+    margin: 5px;
+}
